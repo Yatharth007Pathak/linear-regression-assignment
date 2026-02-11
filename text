@@ -1,10 +1,1 @@
-linear-regression-assignment/
-├── california_housing.csv
-├── Linear_Regression_Assignment.ipynb
-├── playground.ipynb
-├── plots/                     ← this folder
-│   ├── eda_histograms.png
-│   ├── correlation_heatmap.png
-│   ├── simple_regression.png
-│   ├── diagnostics.png
-└── README.md
+
