@@ -15,8 +15,7 @@
 # Files in this repository
 - Linear_Regression_Assignment.ipynb → complete notebook
 - california_housing.csv → dataset (exported from sklearn)
-- playground.ipynb → partial
--  notebook
+- playground.ipynb → partial notebook
 - plots/ → contains all generated visualizations
 
 # Models implemented
