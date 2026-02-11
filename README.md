@@ -2,6 +2,10 @@
 
 # Student Name: YATHARTH PATHAK
 # Roll No: CSJMA23001390169
+
+# Student Name: AMAN DUBEY
+# Roll No: CSJMA23001390072
+
 # Course: B.Tech CSE-AI, 3rd Year  
 # Topic: Predicting house prices using California Housing dataset  
 # Objective: Implement Simple, Multiple, Polynomial, Ridge and Lasso Regression.
