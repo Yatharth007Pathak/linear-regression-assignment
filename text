@@ -1,6 +1,7 @@
 linear-regression-assignment/
 ├── california_housing.csv
 ├── Linear_Regression_Assignment.ipynb
+├── LinearRegressionUsingMaths.ipynb
 ├── playground.ipynb
 ├── test.ipynb
 ├── plots/                     ← this folder
