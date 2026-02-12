@@ -32,6 +32,7 @@ Features: 8 numerical features (MedInc, HouseAge, AveRooms, AveBedrms, Populatio
 - `california_housing.csv` → Dataset used
 - `plots/` → Saved figures (histograms, heatmap, regression lines, residuals, etc.)
 - `playground.ipynb` → Experimental / scratch notebook
+- `test.ipynb` → Experimental / scratch notebook
 - `README.md` → This file
 
 # Key Highlights
