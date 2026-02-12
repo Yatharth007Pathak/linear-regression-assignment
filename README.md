@@ -29,6 +29,7 @@ Features: 8 numerical features (MedInc, HouseAge, AveRooms, AveBedrms, Populatio
 
 # Repository Contents
 - `Linear_Regression_Assignment.ipynb` → Complete lab work with EDA, all models, visualizations and conclusions
+- `Linear_Regression_Assignment.ipynb`  → Complete lab work with EDA, all models, visualizations and conclusions using mathematics
 - `california_housing.csv` → Dataset used
 - `plots/` → Saved figures (histograms, heatmap, regression lines, residuals, etc.)
 - `playground.ipynb` → Experimental / scratch notebook
